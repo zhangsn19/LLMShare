@@ -4,7 +4,7 @@ Institution: [anonymized for submission]
 
 # Introduction
 
-You are invited to participate in an academic interview examining the privacy and security risks involved in the sharing of LLM application accounts. Given your experience in this domain, we cordially invite you to participate in this interview. Please read the following information carefully before deciding whether to participate. If you have any questions, please feel to ask the researcher. 
+You are invited to participate in an academic interview examining the privacy and security risks involved in the sharing of LLM application accounts. Given your experience in this domain, we cordially invite you to participate in this interview. Please read the following information carefully before deciding whether to participate. If you have any questions, please feel free to ask the researcher. 
 
 ## Purpose of the interview
 
@@ -20,7 +20,7 @@ This interview only involves your general knowledge and experiences regarding sh
 
 ## Privacy and confidentiality
 
-We are committed to maintaining strict confidentiality of the information you provide. All audio recordings and transcripts generated from the interview will be anonymized and de-identified. The original data will be encrypted and securely stored on protected devices, where access is strictly restricted to members of the research team for analysis purposes only. The findings of this research will only present aggregated analyses and anonymized quotes. No information that could identify you personally will be disclosed.
+We are committed to maintaining strict confidentiality of the information you provide. All interviews are conducted via institutional enterprise accounts (Zoom or Tencent Meeting). After the session concludes, the raw audio recordings and automatically generated transcripts are downloaded to encrypted, password-protected institutional storage devices, and we will request deletion of the recordings from the conferencing platform's cloud servers. All transcripts will be anonymized and de-identified by stripping direct identifiers and assigning pseudonyms prior to analysis. Access to the encrypted raw data is strictly restricted to members of the research team for academic analysis purposes only. The findings of this research will only present aggregated analyses and anonymized quotes. No information that could identify you personally will be disclosed.
 
 ## Voluntary participation
 
